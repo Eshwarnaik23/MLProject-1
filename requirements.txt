@@ -5,3 +5,8 @@ pymysql
 scikit-learn
 dotenv
 sqlalchemy
+catboost
+xgboost
+Flask
+dill
+mlflow==2.2.2
